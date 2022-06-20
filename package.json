@@ -11,6 +11,7 @@
   "name": "bootstrap",
   "version": "1.0.0",
   "main": "gulpfile.js",
+  
   "dependencies": {
     "ansi-colors": "^1.1.0",
     "ansi-gray": "^0.1.1",
@@ -219,4 +220,5 @@
   "author": "",
   "license": "ISC",
   "description": ""
+  
 }
